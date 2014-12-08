@@ -1,0 +1,79 @@
+#scoreLabel{
+	font-family: Arial,Helvetica, sans-serif;
+	font-size:14pt;
+	color:red;
+	font-weight:bold;
+	position:absolute;
+	top:10px;
+	left:10px;
+	height:25px;
+	}
+#pageTitle{
+	font-family: Arial,Helvetica, sans-serif;
+	font-size:24pt;
+	font-weight:bold;
+	color:red;
+	position:absolute;
+	top:35px;
+	left:10px;
+	height:25px;
+	}
+#nameSpace{
+font-family: Arial,Helvetica, sans-serif;
+	font-size:24pt;
+	font-weight:bold;
+	color:red;
+	position:absolute;
+	top:10px;
+	right:10px;
+	height:25px;
+	
+}
+#gameArea{
+	position:absolute;
+	top:75px;
+	left:10px;
+	border:10px black solid;
+	}
+#dot{
+	border-radius:50%;
+	position:absolute;
+	background-color:red;
+	width:64px;
+	height:64px;
+	}
+#dot2{
+	border-radius:50%;
+	position:absolute;
+	background-color:green;
+	width:64px;
+	height:64px;
+	}
+#dot3{
+	border-radius:50%;
+	position:absolute;
+	background-color:yellow;
+	width:64px;
+	height:64px;
+	}
+#dot4{
+	border-radius:50%;
+	position:absolute;
+	background-color:orange;
+	width:64px;
+	height:64px;
+	}
+#dot5{
+	border-radius:50%;
+	position:absolute;
+	background-color:blue;
+	width:64px;
+	height:64px;
+	}
+#dot6{
+	border-radius:50%;
+	position:absolute;
+	background-color:black;
+	width:64px;
+	height:64px;
+	}	
